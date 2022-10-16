@@ -1,0 +1,8 @@
+deploy.sh
+dist
+node_modules
+public/main.wasm
+public/this_is_flag_dbKIMLQnMCI2fp0.html
+public/favicon.ico
+public/wasm_exec.js
+index.html
